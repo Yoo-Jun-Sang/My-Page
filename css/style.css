@@ -85,7 +85,7 @@ section {
 
 .main {
   height: 360px;
-  background-image: url("/img/bg-computer.jpg");
+  background-image: url("../img/bg-computer.jpg");
   background-size: cover;
   background-position: center 2%;
   background-repeat: no-repeat;
